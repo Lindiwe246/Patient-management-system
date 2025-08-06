@@ -1,2 +1,2 @@
 # Patient-management-system
-React with Spring Boot practice system (React API and Spring Boot REST API) 
+React with Spring Boot practice system (React and Spring Boot REST API) 
